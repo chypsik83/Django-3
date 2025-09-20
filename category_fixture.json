@@ -1,0 +1,57 @@
+[
+{
+    "model": "catalog.product",
+    "pk": 1,
+    "fields": {
+        "name": "телевизор LG",
+        "description": "гарантия год",
+        "image": "",
+        "category": 1,
+        "price": 50000,
+        "created_at": "2025-09-20T14:47:58.092Z",
+        "updated_at": "2025-09-20T14:47:58.092Z"
+    }
+},
+{
+    "model": "catalog.product",
+    "pk": 2,
+    "fields": {
+        "name": "Телевизор SV",
+        "description": "хорошее изображение",
+        "image": "",
+        "category": 1,
+        "price": 45000,
+        "created_at": "2025-09-20T14:48:38.292Z",
+        "updated_at": "2025-09-20T14:48:38.292Z"
+    }
+},
+{
+    "model": "catalog.product",
+    "pk": 3,
+    "fields": {
+        "name": "Стрела",
+        "description": "две камеры",
+        "image": "",
+        "category": 2,
+        "price": 56000,
+        "created_at": "2025-09-20T14:49:06.563Z",
+        "updated_at": "2025-09-20T14:49:06.563Z"
+    }
+},
+{
+    "model": "catalog.category",
+    "pk": 1,
+    "fields": {
+        "name": "Телевизоры",
+        "description": "Обычные"
+    }
+},
+{
+    "model": "catalog.category",
+    "pk": 2,
+    "fields": {
+        "name": "Холодильники",
+        "description": "Хорошо морозят"
+    }
+}
+]
